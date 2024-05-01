@@ -18,4 +18,6 @@
 10. after running previous command it will run the server by default port 8000
 11. if we want to see the output in swaggerUI then write in URL
 - localhost:8000/docs
-12. 
+12. here we tried to get some data from traderMade website
+13. we need to create an account in tradermade an then have to collect API KEY from the website
+14. Here in this project we create an endpoint where we are fetching the financial data from trademade website service
